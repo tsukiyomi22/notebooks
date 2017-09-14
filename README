@@ -6,4 +6,5 @@ and each project has its own README please read it carefully before you start!
 
 Also remember this journey will try the best to be updated, so keep track on github and check the update notes.
 
-I'll assume you already have some linux experience because this was instructed to be cloned with git which will be a later introduction but I'll still walk through some basics for sysops positions that some often miss.
+If you have never used git before check this link out to get a copy of this repo on your linux machine
+http://rogerdudler.github.io/git-guide/
