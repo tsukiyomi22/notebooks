@@ -1,0 +1,52 @@
+Ok so this is exciting, we need linux don't have it? Get it! grab a machine and google how to install linux.
+I'll allow to use whatever methods the only constraint is that it must be Centos7 if you struggle more than a full day then
+go with ubuntu, but some of the commands or paths I'll outline in the rest of the course are going to be on Centos7.
+
+Tasks:
+
+1 - Install Centos7
+    https://wiki.centos.org/HowTos/InstallFromUSBkey - I would recommend to install it this way and find
+    instructions for in case to have windows and don't want to loose it then partition the machine but that will 
+    not be covered on the course. (If you have more trouble installing centos7 but already have ubuntu and don't
+    want to install it or you can't then we can jump forward to docker getting a centos7 container using docker, but do try xD)
+    
+2 - Learn to move in linux
+    So for this we will navigate through some directories most of this is homework and can be done at random times,
+    I'll place a number of commands to read about and learn what you can of why do you use it and how could it be implemented
+    also as simple as you can describe it in your own words, and place as snippet in the reference file for this assignment.
+    
+    mkdir-
+    cd-
+    pwd-
+    ps-
+    ls-
+    cp-
+    mv-
+    rm-
+    cat-
+    vi-
+    which-
+    who-
+    history-
+    
+3 - More commands!
+    Now we'll do the same with some basic routine commands and how to use, these could be from easy to complicated,
+    but the "golden rule" for linux commands is to read the docs and more importantly to "man command" that will help
+    you understand what its is, and what can you use it for.
+    
+    grep-
+    df-
+    du-
+    ifconfig-
+    ip.addr-
+    free-
+    top-
+    sed-
+    awk-
+    tail-
+    head-
+    dmseg-
+    cron-
+    bash-
+    sh-
+    

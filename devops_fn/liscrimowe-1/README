@@ -1,0 +1,19 @@
+Project 1 - Linux / Scripting / Monitoring / WebServer  - (LiScriMoWe)
+
+In this first part we'll try to navigate through some basic linux commands,
+learn how to create bash scripts, and get data to later be able to graph it somehow.
+
+Then we will learn how to show text on a browser using a few web servers,
+this will help us to create a monitoring system using some scripts.
+
+Later we will integrate our scripts and make them get cpu, memory and disk from linux commands,
+and we will get those to our webserver.
+
+We will then find a way to make graphs and this is where python can help us using some libraries to do the graphs.
+
+Finally we will learn how to do the same using the DevOps way, which is automating but that will be Project-2.
+
+NOTE: Use the help provided in the notebooks to try and solve it, if you can or is not clear, try to google but not for the
+answer or complete command to achieve something, for example one of the tasks is to find and set as a variable the cpu of the server (I know I'm getting ahead just bare a little bit and you'll get it) so don't be googling "how to get cpu as a variable", instead you could google something like command for cpu in linux, and then follow a logic in your head ah ok so this commands shows me a lot of info how can I just grab the numbers for cpu, that will help your hear learn to think instead of just finding someone else's work, and it is fair to say everyone does it but if you trully want to learn and want to become good at it you need to learn to think, and to understand what and how everything interacts and it might take years but its well worth it if you do find that passion hold it and DO NOT let it go, I've seen people loose the spark, change jobs to worse things or unrelated, get old and work for old companies, if its not for you then find what you love and let it kill you.
+
+
