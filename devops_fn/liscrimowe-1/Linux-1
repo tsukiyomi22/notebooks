@@ -15,7 +15,8 @@ Tasks:
     I'll place a number of commands to read about and learn what you can of why do you use it and how could it be implemented
     also as simple as you can describe it in your own words, and place as snippet in the reference file for this assignment.
     
-    mkdir-
+    mkdir- mkdir is used to create directories example:
+	$ mkdir /home/os/NEWDIR
     cd-
     pwd-
     ps-
