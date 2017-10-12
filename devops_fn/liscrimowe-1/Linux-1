@@ -17,37 +17,37 @@ Tasks:
     
     mkdir- mkdir is used to create directories example:
 	$ mkdir /home/os/NEWDIR
-    cd-
-    pwd-
-    ps-
-    ls-
-    cp-
-    mv-
-    rm-
-    cat-
-    vi-
-    which-
-    who-
-    history-
+    cd- is used to change to directory, up & down
+    pwd- is used to view, in who directory we are
+    ps- show the state of process
+    ls- look out the directory contain
+    cp- copy files, from the first directoty to the second
+    mv- Is use to move or rename files n directories
+    rm- is use to delete files n directories
+    cat- show a files
+    vi- is use to edit a file
+    which- is use for know where is instaled a program
+    who - shows a conected users
+    history- shows thes lasted commands 
     
 3 - More commands!
     Now we'll do the same with some basic routine commands and how to use, these could be from easy to complicated,
     but the "golden rule" for linux commands is to read the docs and more importantly to "man command" that will help
     you understand what its is, and what can you use it for.
     
-    grep-
-    df-
-    du-
-    ifconfig-
-    ip.addr-
-    free-
-    top-
-    sed-
-    awk-
-    tail-
-    head-
-    dmseg-
-    cron-
-    bash-
-    sh-
+    grep- print the lines of a files containing  the words you are asking for  
+    df- show the free space on the hard drive
+    du- show how much folders and files weigh
+    ifconfig- show the network parameters and shows the network traffic
+    ip.addr- show the information of the network interfaces
+    free- show free memory ram
+    top- show real-time processes
+    sed- is used to edit files with regular expressions
+    awk- Programming language for searches and modifications
+    tail- display the last lines of a file 
+    head- display the first lines of a file
+    dmseg- Show a diagnostic buffer message
+    cron- is used to program the execution of other commands
+    bash- Programming language for administration and system configuration 
+    sh- is used for change bash/shell
     
